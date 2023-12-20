@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS%20PC/Desktop/mlflow/mlruns/0/ac6b21f4d143428ea0312fe8e0249c8f/artifacts
+end_time: 1702653209464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac6b21f4d143428ea0312fe8e0249c8f
+run_name: worried-newt-637
+run_uuid: ac6b21f4d143428ea0312fe8e0249c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702653205796
+status: 3
+tags: []
+user_id: ASUS PC
